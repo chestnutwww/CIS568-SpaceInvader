@@ -5,6 +5,9 @@ CIS568-SpaceInvader
 
 * Yalun Hu
 
+Implemented the classic game Space Invader in Unity 3D game engine. The game was implemented in 3D.
+
+The original Space Invader:
 <p align="center">
   <img src="img/spaceinvader.png">
 </p>
